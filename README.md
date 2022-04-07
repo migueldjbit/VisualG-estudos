@@ -1,0 +1,2 @@
+# VisualG estudos
+ primeiros estudos
